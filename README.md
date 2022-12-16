@@ -86,6 +86,6 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 - Imagem
 - Forma Pagamento
 
-Nenhuma nova coluna foi criada a partir dos dados.
+
 
 
